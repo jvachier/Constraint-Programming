@@ -13,3 +13,5 @@ Three key ingredients <br>
     - All square 3 x 3 values are different 
     - All row values are different
     - All column values are different
+<br>
+Additionally, this code can also be found on my Kaggle profile at https://www.kaggle.com/code/jvachier/constraint-satisfaction-problem-sudoku
